@@ -134,13 +134,17 @@ Select option 3
 **Troubleshooting**
 
 **Issue:** "FileNotFoundError: resources.csv"
+
 **Solution:** Create resources.csv file in the same directory as the Python script
 
 **Issue:** Program crashes when reading CSV
+
 **Solution:** Ensure CSV has proper header row and correct field names
 
 **Issue:** Resources not saving
+
 **Solution:** Check file permissions and ensure you selected 'y' when prompted to save
 
 **Issue:** Python command not recognized
+
 **Solution:** Ensure Python is installed and added to system PATH
